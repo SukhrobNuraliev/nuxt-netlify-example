@@ -14,6 +14,9 @@
           <div>
             <nuxt-link to="/team" class="nav text-black no-underline">Team</nuxt-link>
           </div>
+          <div>
+            <nuxt-link to="/salam" class="nav text-black no-underline">Salam</nuxt-link>
+          </div>
         </div>
       </div>
       <div class="border-b border-solid border-grey mb-8"></div>
